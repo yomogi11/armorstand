@@ -1,0 +1,4 @@
+name: armorstandPlugin
+version: '${project.version}'
+main: com.naka.armorstandplugin.ArmorstandPlugin
+api-version: '1.18'
